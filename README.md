@@ -4,7 +4,7 @@ Individual portfolio for AI neuroscience HCC Professor Patricia McManus
 
 # Bio-Inspired AI Project
 
-**Course:** ITAI 4374 – Bio-Inspired Artificial Intelligence  
+**Course:** ITAI 4374 
 **Author:** Bradley Johnson  
 **Date:** 2026-05-04  
 
